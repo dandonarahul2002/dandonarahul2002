@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Tech For All : https://rahuldandona.wordpress.com/]
 
-- 💬 Know a little about **Data Science and Machine Learning Basics**
+- 💬 I Know a little about **Data Science and Machine Learning Basics**
 
 - 📫 Email: **dandonarahul2002@gmail.com / rahul.dandona@somaiya.edu**
 
