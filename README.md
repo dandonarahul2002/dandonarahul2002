@@ -15,7 +15,7 @@
 
 - 📄 Resume:[https://docs.google.com/document/u/4/d/1ICvmUyzZK2lBYNvq3sADMy_8cHlYcF1MS01tt8STg-Q/edit](https://docs.google.com/document/u/4/d/1ICvmUyzZK2lBYNvq3sADMy_8cHlYcF1MS01tt8STg-Q/edit)
 
-- Feel free to ask me anyting about music and everything except my GitHub! :) 
+- Feel free to ask me anything about music and everything except my GitHub! :) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
