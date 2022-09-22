@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **Data Science and Machine Learning Basics**
 
-- 📫 How to reach me **dandonarahul2002@gmail.com / rahul.dandona@somaiya.edu**
+- 📫 Email: **dandonarahul2002@gmail.com / rahul.dandona@somaiya.edu**
 
-- 📄 Know about my experiences [https://docs.google.com/document/u/4/d/1ICvmUyzZK2lBYNvq3sADMy_8cHlYcF1MS01tt8STg-Q/edit](https://docs.google.com/document/u/4/d/1ICvmUyzZK2lBYNvq3sADMy_8cHlYcF1MS01tt8STg-Q/edit)
+- 📄 Resume:[https://docs.google.com/document/u/4/d/1ICvmUyzZK2lBYNvq3sADMy_8cHlYcF1MS01tt8STg-Q/edit](https://docs.google.com/document/u/4/d/1ICvmUyzZK2lBYNvq3sADMy_8cHlYcF1MS01tt8STg-Q/edit)
 
 - Feel free to ask me anyting about music and everything except my GitHub! :) 
 
