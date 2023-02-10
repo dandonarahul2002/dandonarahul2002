@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Analytics**
 
-- 📝 I regularly write articles on [Tech For All : https://rahuldandona.wordpress.com/]
+- 📝 I write articles on [Tech For All : https://rahuldandona.wordpress.com/]
 
 - 💬 I Know a little about **Data Science and Machine Learning Basics**
 
