@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently studying **Information Technology**
 
-- 🌱 I’m currently learning **Machine Learning and Analytics**
+- 🌱 I’m currently developing in **Artificial Intelligence**
 
 - 📝 I write articles on [Tech For All : https://rahuldandona.wordpress.com/]
 
-- 💬 I Know a little about **Data Science and Machine Learning Basics**
+- 💬 I Know a little about **Data Science, Machine Learning and Generative - AI **
 
 - 📫 Email: **dandonarahul2002@gmail.com / rahul.dandona@somaiya.edu**
 
