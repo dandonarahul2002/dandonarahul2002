@@ -11,7 +11,7 @@
 
 - 💬 I Know a little about **Data Science, Machine Learning and Generative - AI **
 
-- 📫 Email: **dandonarahul2002@gmail.com / rahul.dandona@somaiya.edu**
+- 📫 Email: **rahuldandona08@gmail.com / rahul.dandona@somaiya.edu**
 
 - 📄 Resume:[https://docs.google.com/document/u/4/d/1ICvmUyzZK2lBYNvq3sADMy_8cHlYcF1MS01tt8STg-Q/edit](https://docs.google.com/document/u/4/d/1ICvmUyzZK2lBYNvq3sADMy_8cHlYcF1MS01tt8STg-Q/edit)
 
