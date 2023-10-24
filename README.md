@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [Tech For All : https://rahuldandona.wordpress.com/]
 
-- 💬 I Know a little about **Data Science, Machine Learning and Generative - AI **
+- 💬 I Know a little about **Data Science, Machine Learning and Generative - AI**
 
 - 📫 Email: **rahuldandona08@gmail.com / rahul.dandona@somaiya.edu**
 
