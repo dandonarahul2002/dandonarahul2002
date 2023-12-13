@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently studying **Information Technology**
 
-- 🌱 I’m currently developing in **Artificial Intelligence**
-
-- 📝 I write articles on [Tech For All : https://rahuldandona.wordpress.com/]
+- 🌱 I’m currently developing in **Generative AI**
 
 - 💬 I Know a little about **Data Science, Machine Learning and Generative - AI**
 
