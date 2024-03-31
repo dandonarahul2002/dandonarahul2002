@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **Information Technology**
 
-- 🌱 I’m currently developing in **Generative AI**
+- 🌱 I’m currently working in **Generative AI**
 
 - 💬 I Know a little about **Data Science, Machine Learning and Generative - AI**
 
