@@ -1,13 +1,13 @@
 <h1 align="center">Hello there! I am Rahul Dandona</h1>
-<h3 align="center">An Underground Undergraduate Student</h3>
+<h3 align="center">A Final Year Undergraduate Student with experience in building AI Applications</h3>
 
 
 
 - 🔭 I’m currently studying **Information Technology**
 
-- 🌱 I’m currently working in **Generative AI**
+- 🌱 Prev. **Data Scientist Intern @ Wokelo AI** 
 
-- 💬 I Know a little about **Data Science, Machine Learning and Generative - AI**
+- 💬 Connect with me if you want to talk about **Data Science, Machine Learning and Generative - AI**
 
 - 📫 Email: **rahuldandona08@gmail.com / rahul.dandona@somaiya.edu**
 
