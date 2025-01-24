@@ -7,7 +7,7 @@
 
 - 🌱 **SDE Intern - Backend @ Browserstack** | Prev. **Data Scientist Intern @ Wokelo AI** 
 
-- 💬 Connect with me if you want to talk about **Data Science, Machine Learning and Generative - AI**
+- 💬 Connect with me if you want to talk about **Software Development, Data Science, Machine Learning and Generative - AI**
 
 - 📫 Email: **rahuldandona08@gmail.com / rahul.dandona@somaiya.edu**
 
