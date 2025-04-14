@@ -12,7 +12,7 @@
 - 📫 Email: **rahuldandona08@gmail.com / rahul.dandona@somaiya.edu**
 
 
-- Feel free to ask me anything about music and everything except my GitHub! :) 
+- Feel free to ask me anything and everything about music, AI and backend development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
