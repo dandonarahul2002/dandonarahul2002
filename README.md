@@ -2,9 +2,6 @@
 <h3 align="center">A Final Year Undergraduate Student with experience in building AI Applications</h3>
 
 
-
-- 🔭 I’m currently studying **Information Technology**
-
 - 🌱 **Software Engineer @ Browserstack** | Prev. **Data Scientist Intern @ Wokelo AI** 
 
 - 💬 Connect with me if you want to talk about **Software Development, Data Science, Machine Learning and Generative - AI**
@@ -12,7 +9,7 @@
 - 📫 Email: **rahuldandona08@gmail.com / rahul.dandona@somaiya.edu**
 
 
-- Feel free to ask me anything and everything about music, AI and backend development.
+- Feel free to ask me anything and everything about AI and backend development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
