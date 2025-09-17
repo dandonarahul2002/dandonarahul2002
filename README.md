@@ -2,7 +2,7 @@
 <h3 align="center">A Final Year Undergraduate Student with experience in building AI Applications</h3>
 
 
-- 🌱 **Software Engineer @ Browserstack** | Prev. **Data Scientist and Machine Learning @ Wokelo AI** 
+- 🌱 **Software Engineer @ Browserstack** | Prev. **Data Science and Machine Learning @ Wokelo AI** 
 
 - 💬 Connect with me if you want to talk about **Software Development, Data Science, Machine Learning and Generative - AI**
 
